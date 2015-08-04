@@ -17,7 +17,7 @@ var questions={
   chocolate:{
     picture:"q_chocolate.jpg",
     question:"is chocolate the best thing in the world ever?",
-    a1:"yes",
+    a1:"Yes",
   a1state:"food",
   a2:"Only if it is from Honeydukes",
   a2state:"Pottercorn"
