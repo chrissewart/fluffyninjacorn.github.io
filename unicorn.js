@@ -257,7 +257,7 @@ function next(button){
   var nextState=questions[nextStateName];
 
   if(!nextState){
-    alert('Georgia has forgotten to add a state for '+ state.question + ' button ' + button);
+    alert('Doh! Forgotten to add a state for '+ state.question + ' button ' + button);
   }
 
   state=nextState;
